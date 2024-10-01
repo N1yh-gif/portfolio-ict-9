@@ -1,0 +1,104 @@
+<!DOCTYPE html> 
+<html>
+<head> <title> Topics </title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {margin: 0;}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #687A92;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #ADB8D6;}
+
+ul.topnav li a.active {background-color: #C8D9E6;}
+
+ul.topnav li.right {float: left;}
+
+@media screen and (max-width: 100px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+</style>
+</head>
+<body bgcolor=CEC8B2>
+
+<ul class="topnav">
+ <li><a  href="file:///Users/ninaguardacasa/Desktop/ICT/Index.html">Home</a></li>
+  <li><a href="file:///Users/ninaguardacasa/Desktop/ICT/About-Me.html"> About me </a></li>
+  <li><a href="file:///Users/ninaguardacasa/Desktop/ICT/Activities.html"> Activities </a></li>
+  <li><a class="active" href="file:///Users/ninaguardacasa/Desktop/ICT/Topics.html"> Topics </a></li>
+  <li><a href="file:///Users/ninaguardacasa/Desktop/ICT/Q1-Reflection.html"> Q1 Reflection </a></li>
+</ul>
+
+
+<img src="header7.jpeg" width="1450" height="130">
+<br> <br>
+
+<header>
+<a href="GUARDACASA_PORTFOLIO.html"> </a>
+
+
+</header>
+
+
+
+<p style="text-align: center; font-family: monospace; font-size: xxx-large;"> <b> TOPICS!</b> </p>
+
+
+<p style="font-family: monospace; color:#26130F; font-size: xx-large;text-align: center;">
+LESSON 1 XHTML </p>
+
+<p align="center">
+<img src="xhtml.jpeg" width="300" height="300">
+</p>
+
+<p style="font-family: monospace; color:#26130F; font-size: xx-large;text-align: center;">
+LESSON 2 HTML LISTS</p>
+
+<p align="center">
+<img src="list.jpeg" width="300" height="300">
+<img src="unordered-list.jpeg" width="300" height="300">
+</p>
+
+
+<p style="font-family: monospace; color:#26130F; font-size: xx-large;text-align: center;">
+LESSON 3 & 4 HTML TABLES </p>
+
+<p align="center">
+<img src="table.jpeg" width="300" height="300">
+<img src="directory.jpeg" width="300" height="300">
+</p>
+
+<p style="font-family: monospace; color:#26130F; font-size: xx-large;text-align: center;">
+LESSON 5 HTML LINKS </p>
+
+<p align="center">
+<img src="LINK.jpeg" width="300" height="300">
+</p>
+
+<p style="font-family: monospace; color:#26130F; font-size: xx-large;text-align: center;">LESSON 6-8 HTML FORMS </p>
+
+<p align="center">
+<img src="form.jpeg" width="300" height="300">
+<img src="form2.jpeg" width="300" height="300">
+<img src="sample-code" width="300" height="300">
+</p>
+
+</body>
+</html>

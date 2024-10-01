@@ -1,0 +1,93 @@
+<!DOCTYPE html> 
+<html>
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {margin: 0;}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #687A92;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #ADB8D6;}
+
+ul.topnav li a.active {background-color: #C8D9E6;}
+
+ul.topnav li.right {float: left;}
+
+@media screen and (max-width: 100px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+</style>
+</head>
+<body bgcolor=CEC8B2>
+
+<ul class="topnav">
+  <li><a class="active" href="file:///Users/ninaguardacasa/Desktop/ICT/Index.htmll">Home</a></li>
+  <li><a href="file:///Users/ninaguardacasa/Desktop/ICT/About%20Me.html"> About me </a></li>
+  <li><a href="file:///Users/ninaguardacasa/Desktop/ICT/Activities.html"> Activities </a></li>
+  <li><a href="file:///Users/ninaguardacasa/Desktop/ICT/Topics.html"> Topics </a></li>
+  <li><a href="file:///Users/ninaguardacasa/Desktop/ICT/Q1-Reflection.html"> Q1 Reflection </a></li>
+</ul>
+
+
+<img src="header7.jpeg" width="1450" height="130">
+<br> <br>
+ <table border="4" bordercolor="8B998C" align="center" cellpadding="10"> 
+<td style="font-family: monospace; color:#424A54; background-color: #F1ECD9">
+<h1> MY E-PORTFOLIO IN ICT 9</h1> 
+
+</td> </tr></table>  
+
+</head>
+
+<title>E-PORTFOLIO </title>
+<br>
+
+ 
+
+
+<p style="font-family: monospace; color:#26130F; background-color:#A4B1BA; text-shadow: 6px 6px 4px rgba(568, 145, 45, 0.5); font-size: xx-large;text-align: center;"> 
+
+<b> Welcome to My E-Portfolio! </b>
+</p>
+
+<p style="font-family: monospace; color: #26130F;background-color:#A4B1BA; text-shadow: 6px 6px 4px rgba(568, 145, 45, 0.5);font-size: x-large; text-align: center;"> 
+
+ Hello there! <br> <br> 
+<b> I'm Alniyah or Niyah </b> for short from the section <b> 9-Family </b> in <b> Las Pinas City National Highschool</b>  and this is my portfolio, a compilation of <br> all the activities,lessons, and reflections I've done from 1st - 4th quarter!<br> <u> This portfolio is only currently about the 1st Quarter </u>
+feel free to explore! </p> 
+
+
+
+
+<br> <br> <br>
+<p align="center">
+<img src="TOTORO.gif"width="200" height="200">
+</p>
+
+
+
+
+
+
+
+
+</body>
+</html>  

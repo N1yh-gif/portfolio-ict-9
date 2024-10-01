@@ -1,0 +1,70 @@
+<!DOCTYPE html> 
+<html> <title> Quarter 1 Reflection</title>
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {margin: 0;}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #687A92;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #ADB8D6;}
+
+ul.topnav li a.active {background-color: #C8D9E6;}
+
+ul.topnav li.right {float: left;}
+
+@media screen and (max-width: 100px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+</style>
+</head>
+<body bgcolor=CEC8B2>
+
+<header>
+<a href="GUARDACASA_PORTFOLIO.html"> </a>
+</header>
+
+<ul class="topnav">
+<li><a    href="file:///Users/ninaguardacasa/Desktop/ICT/Index.html">Home</a></li>
+  <li><a href="file:///Users/ninaguardacasa/Desktop/ICT/About-Me.html"> About me </a></li>
+  <li><a href="file:///Users/ninaguardacasa/Desktop/ICT/Activities.html"> Activities </a></li>
+  <li><a href="file:///Users/ninaguardacasa/Desktop/ICT/Topics.html"> Topics </a></li>
+  <li><a class="active" href="file:///Users/ninaguardacasa/Desktop/ICT/Q1-Reflection.html"> Q1 Reflection </a></li>
+</ul>
+
+
+<img src="header7.jpeg" width="1450" height="130">
+<br> <br>
+
+
+<table bgcolor="lightblue" border="3" bordercolor="blue">
+  <th> <b> <u> REFLECTION </u> </b> </th>
+
+<td style="font-family: monospace; color:#424A54; background-color: #F1ECD9">
+This Quarter along with it's lessons mostly taught me that good things take time and effort like this webpage, it is mostly a combination of all the lessons I learned during ICT. Though it wasn't easy the process of it has taught me to be more patient, which is not only applicable to ICT and other subjects but also in real life. <br> <br>
+
+ Being patient helps us to really appriciate the small things and the steps we went through leading to enjoying life. Small triumphs like how I made the navigation bar finally work made me realize that in life both challenges and victories come hand in hand, and is crucial for our lives for us to be able to improve ourselves constantly, Also even though this portfolio isn't the best I've done, there is plenty more room for improvement in order to make it look better. </td> </table>
+
+<img src="KITYY.jpeg" align="right" width="400" height="400">
+<img src="KITTY.jpeg" align="center" width="400" height="400">
+
+</body>
+</html>
